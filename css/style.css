@@ -1,0 +1,112 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/*jquery css start */
+.jquery {
+    text-align: center;
+}
+
+#image {
+    object-fit: cover;
+    width: 30%;
+}
+
+#click {
+    padding: 5px 30px;
+    margin: 0 auto;
+}
+
+#more {
+    padding: 5px 30px;
+    border: none;
+    text-transform: capitalize;
+}
+
+.demo {
+    display: none;
+}
+
+.add {
+    display: none;
+}
+
+#button {
+    padding: 5px 30px;
+    border: none;
+    text-transform: capitalize;
+}
+
+.remove {
+    padding: 5px 30px;
+    border: none;
+    text-transform: capitalize;
+}
+
+/*jquery css end*/
+
+
+
+
+
+
+
+
+
+.reg-form {
+    border: 1px solid grey;
+    text-align: center;
+    padding: 30px 0;
+
+}
+
+.form-head h1 {
+    text-transform: capitalize;
+    padding: 30px 0;
+
+}
+
+.form-inf {
+    position: relative;
+}
+
+.form-inf label {
+    text-transform: capitalize;
+    margin-left: 0;
+    font-size: 20px;
+}
+
+.form-inf input {
+    margin-bottom: 30px;
+    margin-left: 100px;
+    border: none;
+    border-bottom: 1px solid grey;
+    outline: none;
+    width: 600px;
+
+}
+
+.form-inf span {
+    font-size: 16px;
+    color: red;
+    position: absolute;
+    right: 110px;
+    top: 0;
+    text-transform: capitalize;
+}
+
+.form-inf span i {
+    color: seagreen;
+}
+
+.form-btn {
+    padding: 30px 0;
+}
+
+.form-btn button {
+    border: none;
+    padding: 5px 50px;
+    font-size: 20px;
+    text-transform: capitalize;
+}
